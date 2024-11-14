@@ -1,2 +1,3 @@
 #支持指定架构
---platform=linux/arm64 raesene/bwapp
+#--platform=linux/arm64 raesene/bwapp
+raesene/bwapp
