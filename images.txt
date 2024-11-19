@@ -1,2 +1,2 @@
-mcr.microsoft.com/windows:ltsc2019
+--platform linux/x86_64 mcr.microsoft.com/windows:ltsc2019
 
