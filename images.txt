@@ -1,1 +1,1 @@
-mcr.microsoft.com/windows/nanoserver:latest
+mcr.microsoft.com/windows/nanoserver
