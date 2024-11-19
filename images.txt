@@ -1,1 +1,1 @@
-mcr.microsoft.com/windows/servercore:ltsc2019
+mcr.microsoft.com/windows:20H2-amd64
