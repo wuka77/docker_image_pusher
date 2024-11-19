@@ -1,2 +1,2 @@
-mcr.microsoft.com/windows
+mcr.microsoft.com/windows:ltsc2019
 
