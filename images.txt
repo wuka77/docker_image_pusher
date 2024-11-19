@@ -1,1 +1,1 @@
-mcr.microsoft.com/windows/nanoserver
+mcr.microsoft.com/windows:20H2
